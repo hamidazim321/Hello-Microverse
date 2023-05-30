@@ -55,8 +55,8 @@ You can deploy this project using Github Pages
 
 👤 **Hamid Azim**
 
-- GitHub: [@githubhandle](https://github.com/hamidazim321)
-- Twitter: [@twitterhandle](https://twitter.com/hamidazim321)
+- GitHub: [@hamidazim321](https://github.com/hamidazim321)
+- Twitter: [@hamidazim321](https://twitter.com/hamidazim321)
 
 
 ## 🤝 Contributing <a name="contributing"></a>
