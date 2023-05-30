@@ -1,31 +1,96 @@
 <a name="readme-top"></a>
 
 
+<div align="center">
+  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+  <br/>
+
+  <h3><b>Microverse README Template</b></h3>
+
+</div>
+
+
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Setup](#setup)
   - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
   - [Deployment](#deployment)
-- [👥 Author](#authors)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
+- [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
 **Hello Microverse**  is a Microverse Project required in Module 1 of the Micorverse Full-Stack Program.
 
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+> Describe the tech stack and include only the relevant sections that apply to your project.
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://html5.org">HTML</a></li>
+    <li><a href="https://www.w3.org/Style/CSS/Overview.en.html">CSS</a></li>
+  </ul>
+</details>
+
+<details>
+  <summary>Server</summary>
+  <ul>
+    <li>N/A</li>
+  </ul>
+</details>
+
+<details>
+<summary>Database</summary>
+  <ul>
+    <li>N/A</li>
+  </ul>
+</details>
 
 
-<!-- GETTING STARTED -->
+
+### Key Features <a name="key-features"></a>
+
+> Describe between 1-3 key features of the application.
+
+- **Has a Heading on Home page**
+- **Uses linters to automatically check code standards**
+
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+> Has not been deployed yet
+
+- [Live Demo Link](https://google.com)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
 
 To get a local copy up and running, follow these steps.
 
@@ -34,14 +99,43 @@ To get a local copy up and running, follow these steps.
 In order to run this project you need:
 **Have A code Editor on your local machine**
 
+
+**Example code editor:**
+Visual Studio Code
+
+
+
 ### Setup
 
 Clone this repository to your desired folder:
 
-**Example commands:**
+Example commands:
+
   cd my-folder
   git clone git@github.com:myaccount/my-project.git
 
+
+
+### Install
+
+Install this project with:
+
+  cd my-project
+  gem install
+
+
+### Usage
+
+To run the project:
+  open the Index.html file on a Browser
+
+
+
+### Run tests
+
+To run tests, run the following command:
+
+npx hint .
 
 ### Deployment
 
@@ -57,6 +151,24 @@ You can deploy this project using Github Pages
 
 - GitHub: [@hamidazim321](https://github.com/hamidazim321)
 - Twitter: [@hamidazim321](https://twitter.com/hamidazim321)
+
+
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- [ ] **[Will be known in the next Microverse projects]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 ## 🤝 Contributing <a name="contributing"></a>
@@ -85,10 +197,15 @@ I would like to thank Microverse for the oppurtunity to learn among other aspiri
 
 
 
-<!-- LICENSE -->
+
 
 ## 📝 License <a name="license"></a>
 
 This project is [MIT](./LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+
+_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
